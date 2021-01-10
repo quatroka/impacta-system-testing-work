@@ -1,0 +1,13 @@
+/home/quatroka/workspace/impacta-system-testing-work/src/test/java/runner/RunnerTest.java
+/home/quatroka/workspace/impacta-system-testing-work/src/test/java/definition/ProcessEntity.java
+/home/quatroka/workspace/impacta-system-testing-work/src/test/java/steps/CRUDProcessSteps.java
+/home/quatroka/workspace/impacta-system-testing-work/src/test/java/steps/Hooks.java
+/home/quatroka/workspace/impacta-system-testing-work/src/test/java/support/DriverQA.java
+/home/quatroka/workspace/impacta-system-testing-work/src/test/java/support/BaseSteps.java
+/home/quatroka/workspace/impacta-system-testing-work/src/test/java/support/RESTSupport.java
+/home/quatroka/workspace/impacta-system-testing-work/src/test/java/pages/BasePage.java
+/home/quatroka/workspace/impacta-system-testing-work/src/test/java/pages/ProcessList.java
+/home/quatroka/workspace/impacta-system-testing-work/src/test/java/pages/ProcessDetail.java
+/home/quatroka/workspace/impacta-system-testing-work/src/test/java/pages/ProcessForm.java
+/home/quatroka/workspace/impacta-system-testing-work/src/test/java/pages/MenuImpacta.java
+/home/quatroka/workspace/impacta-system-testing-work/src/test/java/pages/HomePage.java
